@@ -28,6 +28,9 @@ class HRModel {
         self.arrayList.append(Team(name: "에릭 남", type: "가수"))
         self.arrayList.append(Team(name: "크러쉬", type: "가수"))
         self.arrayList.append(Team(name: "강동원", type: "진행"))
+ 
+        
+        
         
     }
 }
