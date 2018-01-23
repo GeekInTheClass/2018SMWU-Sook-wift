@@ -20,6 +20,8 @@ class DetailViewController: UIViewController {
 
         self.labelName.text = self.selectedTeam.teamName
         self.labelType.text = self.selectedTeam.identity
+
+        
         
         
         // Do any additional setup after loading the view.
